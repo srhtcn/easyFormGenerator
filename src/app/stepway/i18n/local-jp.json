@@ -22,7 +22,7 @@
     "NUMBER_OF_COLUMN"    : "カラムの数",
     "APPLY_CTRL2COL"      : "カラムにコントロール適用",
     
-    "CLIC_TAP_2_OPEN"     : "コントロール選択を広げるには列をクリック",
+    "CLICK_TAP_2_OPEN"     : "コントロール選択を広げるには列をクリック",
     "SELECT_2_APPLY_COL"  : "好きなコントロールを選び適用",
     
     "CUSTOM_SUBMIT_BTN"   : "適用ボタンの文字変更する場合",

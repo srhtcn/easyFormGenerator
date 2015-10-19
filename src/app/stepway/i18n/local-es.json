@@ -22,7 +22,7 @@
     "NUMBER_OF_COLUMN"    : "numero de columnas",
     "APPLY_CTRL2COL"      : "Aplicar controles a columnas",
     
-    "CLIC_TAP_2_OPEN"     : "Click / Toque en la columna para seleccionar controles",
+    "CLICK_TAP_2_OPEN"     : "Click / Toque en la columna para seleccionar controles",
     "SELECT_2_APPLY_COL"  : "Selecciona el control deseado para aplicarlo a la columna",
     
     "CUSTOM_SUBMIT_BTN"   : "Personalizar texto de boton Enviar",
